@@ -14,5 +14,8 @@ Resources:
           Properties:
             Path: /TimeResource
             Method: GET
+            Tags:
+              auto-delete: "false"
+
       Tags:
         auto-delete: "false"
